@@ -1,0 +1,738 @@
+﻿Log file open, 05/19/19 18:34:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PlatformerMax
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.388965
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.726s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=crazypete02 -epicuserid=234fc6e4099b4f3da5fc56cc858d8d71 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.19-09.04.24:083][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.19-09.04.24:083][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.19-09.04.24:083][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Config/Windows/Engine.ini]
+[2019.05.19-09.04.24:083][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.19-09.04.24:083][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.05.19-09.04.24:083][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Config/Windows/Engine.ini]
+[2019.05.19-09.04.24:083][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Config/Windows/Engine.ini]
+[2019.05.19-09.04.24:083][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.19-09.04.24:083][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.19-09.04.24:083][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.19-09.04.24:083][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.19-09.04.24:083][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.19-09.04.24:083][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.19-09.04.24:083][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.19-09.04.24:083][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.19-09.04.24:083][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.19-09.04.24:083][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.19-09.04.24:083][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.19-09.04.24:083][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.19-09.04.24:083][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.19-09.04.24:083][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Config/Windows/Engine.ini]
+[2019.05.19-09.04.24:083][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.19-09.04.24:083][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.19-09.04.24:083][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.19-09.04.24:084][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.19-09.04.24:084][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.19-09.04.24:084][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.19-09.04.24:084][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.05.19-09.04.24:084][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.19-09.04.24:084][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.19-09.04.24:084][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.05.19-09.04.24:084][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.19-09.04.24:084][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.19-09.04.24:084][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.19-09.04.24:084][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.19-09.04.24:084][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Config/Windows/Engine.ini]
+[2019.05.19-09.04.24:084][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Config/Windows/Engine.ini]
+[2019.05.19-09.04.24:086][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.19-09.04.24:086][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.19-09.04.24:087][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.19-09.04.24:087][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.19-09.04.24:087][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.19-09.04.24:137][  0]LogHAL: Display: Platform has ~ 8 GB [8520867840 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.19-09.04.24:137][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.05.19-09.04.24:137][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.19-09.04.24:138][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.19-09.04.24:138][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.19-09.04.24:138][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Config/Windows/Engine.ini]
+[2019.05.19-09.04.24:139][  0]LogInit: Computer: HOLTON-PC
+[2019.05.19-09.04.24:139][  0]LogInit: User: Holton
+[2019.05.19-09.04.24:139][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.05.19-09.04.24:139][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.05.19-09.04.24:139][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.05.19-09.04.24:139][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.19-09.04.24:139][  0]LogMemory: Process Physical Memory: 103.43 MB used, 103.44 MB peak
+[2019.05.19-09.04.24:139][  0]LogMemory: Process Virtual Memory: 86.05 MB used, 86.05 MB peak
+[2019.05.19-09.04.24:139][  0]LogMemory: Physical Memory: 5950.97 MB used,  2175.16 MB free, 8126.13 MB total
+[2019.05.19-09.04.24:139][  0]LogMemory: Virtual Memory: 4662.31 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.05.19-09.04.24:150][  0]LogInit: Using OS detected language (en-US).
+[2019.05.19-09.04.24:150][  0]LogInit: Using OS detected locale (en-AU).
+[2019.05.19-09.04.24:150][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.19-09.04.24:418][  0]LogStreaming: Display: Took  0.269s to InitEngineTextLocalization.
+[2019.05.19-09.04.24:419][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.19-09.04.24:948][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.19-09.04.24:948][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.19-09.04.25:066][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.19-09.04.25:066][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.19-09.04.25:112][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.05.19-09.04.25:112][  0]LogD3D11RHI:       6052/0/4063 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.19-09.04.25:114][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.19-09.04.25:114][  0]LogD3D11RHI:       0/0/4063 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.19-09.04.25:114][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.19-09.04.25:119][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.19-09.04.25:119][  0]LogD3D11RHI:     GPU DeviceId: 0x1b83 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.19-09.04.25:119][  0]LogWindows: EnumDisplayDevices:
+[2019.05.19-09.04.25:119][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.05.19-09.04.25:120][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.05.19-09.04.25:120][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.05.19-09.04.25:120][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.05.19-09.04.25:120][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.05.19-09.04.25:120][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.05.19-09.04.25:120][  0]LogD3D11RHI:   Driver Version: 418.81 (internal:25.21.14.1881, unified:418.81)
+[2019.05.19-09.04.25:120][  0]LogD3D11RHI:      Driver Date: 1-30-2019
+[2019.05.19-09.04.25:120][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.05.19-09.04.25:147][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.19-09.04.25:159][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.19-09.04.25:478][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.19-09.04.25:487][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.19-09.04.25:497][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.19-09.04.25:506][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.19-09.04.25:515][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.19-09.04.25:525][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.19-09.04.25:534][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.19-09.04.25:544][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.19-09.04.25:548][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.19-09.04.25:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.04.25:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.04.25:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.04.25:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.04.25:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.04.25:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.04.25:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.04.25:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.04.25:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.04.25:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.04.25:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.04.25:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.04.25:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.04.25:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.04.25:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.04.25:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.04.25:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.04.25:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.04.25:603][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.19-09.04.25:654][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.19-09.04.25:654][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.19-09.04.25:672][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.19-09.04.25:672][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.19-09.04.25:680][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.19-09.04.25:689][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.19-09.04.25:697][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.19-09.04.25:706][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.19-09.04.25:737][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.19-09.04.25:737][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.19-09.04.25:737][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.19-09.04.25:772][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Intermediate/Shaders/WorkingDirectory/5840/).
+[2019.05.19-09.04.25:772][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Holton/AppData/Local/Temp/UnrealShaderWorkingDir/BE338492427AA49FE4E76E8704C5D5E4/'.
+[2019.05.19-09.04.25:773][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.19-09.04.25:773][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.19-09.04.25:773][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.19-09.04.26:171][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.19-09.04.26:223][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Holton/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.19-09.04.26:223][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Holton/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.05.19-09.04.26:223][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.19-09.04.26:223][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.19-09.04.26:223][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.19-09.04.26:224][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.19-09.04.26:235][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.19-09.04.26:235][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.19-09.04.26:235][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.19-09.04.26:247][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Holton/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.19-09.04.26:247][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.19-09.04.26:247][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.19-09.04.26:264][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.19-09.04.26:265][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.19-09.04.26:265][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.19-09.04.26:331][  0]LogAssetRegistry: FAssetRegistry took 0.0297 seconds to start up
+[2019.05.19-09.04.26:555][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.19-09.04.26:663][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.19-09.04.26:665][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.19-09.04.26:665][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.19-09.04.26:665][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.19-09.04.26:665][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.19-09.04.26:674][  0]LogNetVersion: PlatformerMax 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2316273269)
+[2019.05.19-09.04.31:981][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 4.497935 seconds
+[2019.05.19-09.04.31:994][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.05.19-09.04.31:994][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.05.19-09.04.31:994][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.19-09.04.32:796][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.19-09.04.32:809][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.19-09.04.33:413][  0]SourceControl: Source control is disabled
+[2019.05.19-09.04.33:413][  0]SourceControl: Source control is disabled
+[2019.05.19-09.04.33:415][  0]SourceControl: Source control is disabled
+[2019.05.19-09.04.33:416][  0]SourceControl: Source control is disabled
+[2019.05.19-09.04.33:829][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.19-09.04.33:872][  0]LogOcInput: OculusInput pre-init called
+[2019.05.19-09.04.34:006][  0]LogEngine: Initializing Engine...
+[2019.05.19-09.04.34:006][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.19-09.04.34:007][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.19-09.04.34:007][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.19-09.04.34:007][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.19-09.04.34:007][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.19-09.04.34:186][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.19-09.04.34:196][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.19-09.04.34:223][  0]LogInit: XAudio2 using 'Speakers (2- Stealth 600)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.19-09.04.34:234][  0]LogInit: FAudioDevice initialized.
+[2019.05.19-09.04.34:234][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.19-09.04.35:967][  0]LogDerivedDataCache: Saved boot cache 1.73s 71MB C:/Users/Holton/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.19-09.04.35:982][  0]LogInit: Texture streaming: Enabled
+[2019.05.19-09.04.36:015][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.19-09.04.36:032][  0]LogInit: Transaction tracking system initialized
+[2019.05.19-09.04.36:047][  0]BlueprintLog: New page: Editor Load
+[2019.05.19-09.04.36:105][  0]LocalizationService: Localization service is disabled
+[2019.05.19-09.04.36:490][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Content/' took 0.02s
+[2019.05.19-09.04.36:490][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.19-09.04.36:490][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.19-09.04.36:490][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.19-09.04.36:490][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.19-09.04.36:490][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.19-09.04.36:490][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.19-09.04.36:490][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.19-09.04.36:569][  0]SourceControl: Source control is disabled
+[2019.05.19-09.04.36:569][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Content/_MyContent/Maps/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.19-09.04.36:569][  0]LightingResults: New page: Lighting Build
+[2019.05.19-09.04.36:571][  0]MapCheck: New page: Map Check
+[2019.05.19-09.04.36:571][  0]LightingResults: New page: Lighting Build
+[2019.05.19-09.04.40:079][  0]LogAIModule: Creating AISystem for world Level_1
+[2019.05.19-09.04.40:241][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.19-09.04.40:268][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.19-09.04.40:268][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.1ms to complete.
+[2019.05.19-09.04.40:268][  0]LogFileHelpers: Loading map 'Level_1' took 3.699
+[2019.05.19-09.04.40:933][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-09.04.40:950][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-09.04.40:955][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-09.04.40:960][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-09.04.41:069][  0]LogCollectionManager: Loaded 0 collections in 0.005276 seconds
+[2019.05.19-09.04.41:396][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Collections/' took 0.01s
+[2019.05.19-09.04.41:396][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Content/Developers/Holton/Collections/' took 0.01s
+[2019.05.19-09.04.41:396][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Content/Collections/' took 0.00s
+[2019.05.19-09.04.41:397][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.05.19-09.04.41:495][  0]LogContentBrowser: Native class hierarchy populated in 0.0742 seconds. Added 2651 classes and 620 folders.
+[2019.05.19-09.04.41:787][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.05.19-09.04.41:880][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-09.04.42:066][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-09.04.42:192][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-09.04.42:254][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-09.04.42:280][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-09.04.42:301][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-09.04.42:328][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-09.04.42:365][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-09.04.42:397][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-09.04.42:439][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-09.04.42:474][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-09.04.42:498][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-09.04.42:526][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-09.04.42:543][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-09.04.42:581][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-09.04.42:599][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-09.04.42:640][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-09.04.42:673][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-09.04.42:702][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-09.04.42:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-09.04.42:759][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-09.04.42:786][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-09.04.42:820][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-09.04.42:842][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-09.04.42:865][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-09.04.42:890][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-09.04.43:781][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.19-09.04.43:843][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.05.19-09.04.44:240][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.05.19-09.04.44:240][  0]LogLoad: (Engine Initialization) Total time: 24.61 seconds
+[2019.05.19-09.04.44:240][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.19-09.04.44:953][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.19-09.04.44:956][  0]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.19-09.04.44:957][  0]LogSlate: Took 0.000087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.19-09.04.45:549][  0]LogSlate: Took 0.330057 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.19-09.04.51:055][  0]LogRenderer: Reallocating scene render targets to support 544x360 Format 10 NumSamples 1 (Frame:1).
+[2019.05.19-09.04.51:055][  0]LogSlate: Took 0.019986 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.19-09.04.51:294][  2]LogAssetRegistry: Asset discovery search completed in 24.9854 seconds
+[2019.05.19-09.04.51:295][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.19-09.04.51:295][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000033 seconds (updated 0 objects)
+[2019.05.19-09.04.51:304][  2]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.19-09.05.32:827][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-09.05.34:841][848]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_MyContent/UI/Widget_Abandon.Widget_Abandon
+[2019.05.19-09.05.44:146][848]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 117 classes and 0 folders.
+[2019.05.19-09.05.46:986][848]LogSlate: Took 0.007818 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.19-09.05.51:293][270]LogSlate: Window 'Widget_Abandon' being destroyed
+[2019.05.19-09.05.55:614][772]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_MyContent/Blueprints/BP_MyGameManager.BP_MyGameManager
+[2019.05.19-09.06.09:529][533]LogSlate: Took 0.142089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.19-09.06.14:148][ 86]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_MyContent/Blueprints/BP_MyFunctionLibrary.BP_MyFunctionLibrary
+[2019.05.19-09.10.33:100][721]BlueprintLog: New page: Compile BP_MyGameManager
+[2019.05.19-09.10.39:254][121]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1
+[2019.05.19-09.14.01:857][600]BlueprintLog: New page: Compile Level_1
+[2019.05.19-09.14.03:890][826]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.19-09.14.04:027][826]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.19-09.14.04:027][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.19-09.14.04:238][826]PIE: New page: PIE session: Level_1 (20 May 2019 4:14:04 am)
+[2019.05.19-09.14.04:380][826]LogPlayLevel: Creating play world package: /Game/_MyContent/Maps/UEDPIE_0_Level_1
+[2019.05.19-09.14.04:387][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006134s)
+[2019.05.19-09.14.04:387][826]LogAIModule: Creating AISystem for world Level_1
+[2019.05.19-09.14.04:387][826]LogPlayLevel: PIE: World Init took: (0.000497s)
+[2019.05.19-09.14.04:387][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_MyContent/Maps/Level_1.Level_1 to /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1 (0.007347s)
+[2019.05.19-09.14.04:636][826]LogInit: XAudio2 using 'Speakers (2- Stealth 600)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.19-09.14.04:644][826]LogInit: FAudioDevice initialized.
+[2019.05.19-09.14.04:648][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-09.14.04:700][826]LogLoad: Game class is 'BP_MyGamemode_C'
+[2019.05.19-09.14.04:702][826]LogWorld: Bringing World /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2019.05.19-18.44.04
+[2019.05.19-09.14.04:702][826]LogWorld: Bringing up level for play took: 0.001910
+[2019.05.19-09.14.05:066][826]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.05.19-09.14.05:069][826]PIE: Play in editor start time for /Game/_MyContent/Maps/UEDPIE_0_Level_1 1.965
+[2019.05.19-09.14.05:071][826]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.19-09.14.05:102][826]LogRenderer: Reallocating scene render targets to support 1932x1116 Format 10 NumSamples 1 (Frame:1).
+[2019.05.19-09.14.09:088][233]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.19-09.14.09:089][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-09.14.09:101][233]LogSlate: Window 'PlatformerMax Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.19-09.14.09:145][233]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.19-09.14.09:145][233]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.19-09.14.09:188][234]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.05.19-09.16.37:496][718]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.05.19-09.16.37:498][718]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.05.19-09.16.38:883][874]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.19-09.16.38:917][874]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.19-09.16.38:917][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.19-09.16.38:917][874]PIE: New page: PIE session: Level_1 (20 May 2019 4:16:38 am)
+[2019.05.19-09.16.38:917][874]LogPlayLevel: Creating play world package: /Game/_MyContent/Maps/UEDPIE_0_Level_1
+[2019.05.19-09.16.38:920][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002850s)
+[2019.05.19-09.16.38:921][874]LogAIModule: Creating AISystem for world Level_1
+[2019.05.19-09.16.38:921][874]LogPlayLevel: PIE: World Init took: (0.000557s)
+[2019.05.19-09.16.38:921][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_MyContent/Maps/Level_1.Level_1 to /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1 (0.003509s)
+[2019.05.19-09.16.38:955][874]LogInit: XAudio2 using 'Speakers (2- Stealth 600)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.19-09.16.38:962][874]LogInit: FAudioDevice initialized.
+[2019.05.19-09.16.38:967][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-09.16.39:001][874]LogLoad: Game class is 'BP_MyGamemode_C'
+[2019.05.19-09.16.39:002][874]LogWorld: Bringing World /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2019.05.19-18.46.39
+[2019.05.19-09.16.39:003][874]LogWorld: Bringing up level for play took: 0.001183
+[2019.05.19-09.16.39:017][874]PIE: Play in editor start time for /Game/_MyContent/Maps/UEDPIE_0_Level_1 -0.087
+[2019.05.19-09.16.39:019][874]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.19-09.16.45:667][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-09.16.51:756][352]LogSlate: Window 'PlatformerMax Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.19-09.16.51:760][352]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.19-09.16.51:909][352]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.19-09.16.51:910][352]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.19-09.16.52:312][353]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.05.19-09.21.24:175][863]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.19-09.21.24:198][863]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.19-09.21.24:198][863]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.19-09.21.24:200][863]LogPlayLevel: [PlayLevel] Compiling Widget_Abandon before play...
+[2019.05.19-09.21.24:336][863]LogPlayLevel: PlayLevel: Blueprint regeneration took 137 ms (1 blueprints)
+[2019.05.19-09.21.24:336][863]PIE: New page: PIE session: Level_1 (20 May 2019 4:21:24 am)
+[2019.05.19-09.21.24:336][863]LogPlayLevel: Creating play world package: /Game/_MyContent/Maps/UEDPIE_0_Level_1
+[2019.05.19-09.21.24:339][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002850s)
+[2019.05.19-09.21.24:339][863]LogAIModule: Creating AISystem for world Level_1
+[2019.05.19-09.21.24:339][863]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2019.05.19-09.21.24:339][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_MyContent/Maps/Level_1.Level_1 to /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1 (0.003575s)
+[2019.05.19-09.21.24:373][863]LogInit: XAudio2 using 'Speakers (2- Stealth 600)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.19-09.21.24:382][863]LogInit: FAudioDevice initialized.
+[2019.05.19-09.21.24:387][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-09.21.24:416][863]LogLoad: Game class is 'BP_MyGamemode_C'
+[2019.05.19-09.21.24:419][863]LogWorld: Bringing World /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2019.05.19-18.51.24
+[2019.05.19-09.21.24:419][863]LogWorld: Bringing up level for play took: 0.001830
+[2019.05.19-09.21.24:433][863]PIE: Play in editor start time for /Game/_MyContent/Maps/UEDPIE_0_Level_1 -0.672
+[2019.05.19-09.21.24:433][863]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.19-09.21.27:243][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-09.21.30:478][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-09.21.30:622][594]LogSlate: Window 'PlatformerMax Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.19-09.21.30:627][594]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.19-09.21.30:663][594]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.19-09.21.30:664][594]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.19-09.21.30:724][595]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.05.19-09.22.27:207][829]BlueprintLog: New page: Compile Widget_Abandon
+[2019.05.19-09.22.28:729][996]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.05.19-09.22.28:744][996]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.19-09.22.28:744][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.19-09.22.28:744][996]PIE: New page: PIE session: Level_1 (20 May 2019 4:22:28 am)
+[2019.05.19-09.22.28:744][996]LogPlayLevel: Creating play world package: /Game/_MyContent/Maps/UEDPIE_0_Level_1
+[2019.05.19-09.22.28:747][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002705s)
+[2019.05.19-09.22.28:748][996]LogAIModule: Creating AISystem for world Level_1
+[2019.05.19-09.22.28:748][996]LogPlayLevel: PIE: World Init took: (0.000467s)
+[2019.05.19-09.22.28:748][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_MyContent/Maps/Level_1.Level_1 to /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1 (0.003265s)
+[2019.05.19-09.22.28:783][996]LogInit: XAudio2 using 'Speakers (2- Stealth 600)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.19-09.22.28:791][996]LogInit: FAudioDevice initialized.
+[2019.05.19-09.22.28:795][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-09.22.28:823][996]LogLoad: Game class is 'BP_MyGamemode_C'
+[2019.05.19-09.22.28:830][996]LogWorld: Bringing World /Game/_MyContent/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2019.05.19-18.52.28
+[2019.05.19-09.22.28:831][996]LogWorld: Bringing up level for play took: 0.005021
+[2019.05.19-09.22.28:850][996]PIE: Play in editor start time for /Game/_MyContent/Maps/UEDPIE_0_Level_1 -0.254
+[2019.05.19-09.22.28:851][996]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.19-09.22.32:000][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-09.22.32:093][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-09.22.32:093][373]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.19-09.22.32:105][373]LogSlate: Window 'PlatformerMax Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.19-09.22.32:143][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.19-09.22.32:143][373]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/_MyContent/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/_MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.05.19-09.22.32:200][374]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.05.19-09.38.16:110][105]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{f2faaa63-9611-4ad2-b606-bd0bf066d3f3} was removed. Shutting down audio device.
+[2019.05.19-09.38.16:110][105]LogInit: XAudio2 using 'VX2757 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.19-09.38.16:182][107]LogInit: XAudio2 using 'VX2757 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.19-09.48.32:391][ 35]LogInit: XAudio2 using 'Speakers (2- Stealth 600)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.19-09.48.32:450][ 36]LogInit: XAudio2 using 'Speakers (2- Stealth 600)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.19-09.52.04:726][544]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_MyContent/UI/Widget_Win.Widget_Win
+[2019.05.19-09.52.31:643][637]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.19-09.52.35:014][731]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.19-09.53.08:467][527]LogMetaData: Removing '/Game/_MyContent/UI/Widget_Lose.SKEL_Widget_Lose_C' ref from Metadata '/Game/_MyContent/UI/Widget_Abandon1.PackageMetaData'
+[2019.05.19-09.53.08:467][527]LogMetaData: Removing '/Game/_MyContent/UI/Widget_Lose.Widget_Lose_C' ref from Metadata '/Game/_MyContent/UI/Widget_Abandon1.PackageMetaData'
+[2019.05.19-09.53.08:486][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_MyContent/UI/Widget_Lose" FILE="../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Content/_MyContent/UI/Widget_Lose.uasset" SILENT=true
+[2019.05.19-09.53.08:521][527]LogSavePackage: Moving '../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Widget_LoseC42835994315909621C94EAC965ED10B.tmp' to '../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Content/_MyContent/UI/Widget_Lose.uasset'
+[2019.05.19-09.53.10:519][745]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_MyContent/UI/Widget_Win.Widget_Win
+[2019.05.19-09.53.13:917][124]LogSlate: Window 'Widget_Win*' being destroyed
+[2019.05.19-09.55.05:697][933]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.19-09.55.42:579][375]BlueprintLog: New page: Compile Widget_Win
+[2019.05.19-09.56.06:886][106]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.19-09.56.59:371][974]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.19-09.58.03:473][700]LogEditorTransaction: Undo Edit ZOrder
+[2019.05.19-09.58.10:789][573]BlueprintLog: New page: Compile Widget_Win
+[2019.05.19-09.58.11:364][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_MyContent/UI/Widget_Win" FILE="../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Content/_MyContent/UI/Widget_Win.uasset" SILENT=true
+[2019.05.19-09.58.11:378][631]LogSavePackage: Moving '../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Widget_WinCC0500AE4F661EB3226DD58BDD4B7179.tmp' to '../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Content/_MyContent/UI/Widget_Win.uasset'
+[2019.05.19-09.58.13:791][919]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_MyContent/UI/Widget_Lose.Widget_Lose
+[2019.05.19-09.58.21:644][606]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.19-09.58.28:813][273]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.19-09.58.44:140][ 77]LogMetaData: Removing '/Game/_MyContent/UI/Widget_Lose.SKEL_Widget_Lose_C' ref from Metadata '/Game/_MyContent/UI/Widget_Win1.PackageMetaData'
+[2019.05.19-09.58.44:140][ 77]LogMetaData: Removing '/Game/_MyContent/UI/Widget_Lose.Widget_Lose_C' ref from Metadata '/Game/_MyContent/UI/Widget_Win1.PackageMetaData'
+[2019.05.19-09.58.44:151][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_MyContent/UI/Widget_Lose" FILE="../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Content/_MyContent/UI/Widget_Lose.uasset" SILENT=true
+[2019.05.19-09.58.44:168][ 77]LogSavePackage: Moving '../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Widget_Lose5CE3280B4F2ECD8F711DB382B08D7F38.tmp' to '../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Content/_MyContent/UI/Widget_Lose.uasset'
+[2019.05.19-09.59.02:327][226]BlueprintLog: New page: Compile Widget_Win
+[2019.05.19-09.59.03:235][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_MyContent/UI/Widget_Win" FILE="../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Content/_MyContent/UI/Widget_Win.uasset" SILENT=true
+[2019.05.19-09.59.03:330][325]LogSavePackage: Moving '../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Widget_Win06438CF6496D2FA5763FD499A92D5065.tmp' to '../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Content/_MyContent/UI/Widget_Win.uasset'
+[2019.05.19-09.59.13:402][532]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.19-09.59.17:792][ 58]BlueprintLog: New page: Compile Widget_Win
+[2019.05.19-09.59.18:766][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_MyContent/UI/Widget_Win" FILE="../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Content/_MyContent/UI/Widget_Win.uasset" SILENT=true
+[2019.05.19-09.59.18:780][165]LogSavePackage: Moving '../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Widget_Win7516377A429246E6DA50E3A59495C650.tmp' to '../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Content/_MyContent/UI/Widget_Win.uasset'
+[2019.05.19-10.00.08:638][599]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_MyContent/UI/Widget_Lose.Widget_Lose
+[2019.05.19-10.00.24:043][420]BlueprintLog: New page: Compile Widget_Lose
+[2019.05.19-10.00.24:637][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_MyContent/UI/Widget_Lose" FILE="../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Content/_MyContent/UI/Widget_Lose.uasset" SILENT=true
+[2019.05.19-10.00.24:656][481]LogSavePackage: Moving '../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Widget_Lose3CDAF54B443B4E858E426B84769842F8.tmp' to '../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Content/_MyContent/UI/Widget_Lose.uasset'
+[2019.05.19-10.00.26:055][648]BlueprintLog: New page: Compile Widget_Win
+[2019.05.19-10.00.26:698][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_MyContent/UI/Widget_Win" FILE="../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Content/_MyContent/UI/Widget_Win.uasset" SILENT=true
+[2019.05.19-10.00.26:712][714]LogSavePackage: Moving '../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Widget_Win6A72B38848E19017EE9186AF93820DFD.tmp' to '../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Content/_MyContent/UI/Widget_Win.uasset'
+[2019.05.19-10.00.43:439][701]LogMetaData: Removing '/Game/_MyContent/UI/Widget_Wi.Widget_Wi_C' ref from Metadata '/Game/_MyContent/UI/Widget_Lose.PackageMetaData'
+[2019.05.19-10.00.43:439][701]LogMetaData: Removing '/Game/_MyContent/UI/Widget_Wi.SKEL_Widget_Wi_C' ref from Metadata '/Game/_MyContent/UI/Widget_Lose.PackageMetaData'
+[2019.05.19-10.00.43:452][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_MyContent/UI/Widget_Wi" FILE="../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Content/_MyContent/UI/Widget_Wi.uasset" SILENT=true
+[2019.05.19-10.00.43:466][701]LogSavePackage: Moving '../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Widget_WiC2899B724FB57C6C0403D28CAB4F478A.tmp' to '../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Content/_MyContent/UI/Widget_Wi.uasset'
+[2019.05.19-10.00.54:836][ 14]LogMetaData: Removing '/Game/_MyContent/UI/Widget_Lose.SKEL_Widget_Lose_C' ref from Metadata '/Game/_MyContent/UI/Widget_Win.PackageMetaData'
+[2019.05.19-10.00.54:836][ 14]LogMetaData: Removing '/Game/_MyContent/UI/Widget_Lose.Widget_Lose_C' ref from Metadata '/Game/_MyContent/UI/Widget_Win.PackageMetaData'
+[2019.05.19-10.00.54:847][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_MyContent/UI/Widget_Lose" FILE="../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Content/_MyContent/UI/Widget_Lose.uasset" SILENT=true
+[2019.05.19-10.00.54:865][ 14]LogSavePackage: Moving '../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Widget_Lose71282B4B4190DEB789D0E583370E34C3.tmp' to '../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Content/_MyContent/UI/Widget_Lose.uasset'
+[2019.05.19-10.01.10:487][844]LogMetaData: Removing '/Game/_MyContent/UI/Widget_Win.Widget_Win_C' ref from Metadata '/Game/_MyContent/UI/Widget_Wi.PackageMetaData'
+[2019.05.19-10.01.10:487][844]LogMetaData: Removing '/Game/_MyContent/UI/Widget_Win.SKEL_Widget_Win_C' ref from Metadata '/Game/_MyContent/UI/Widget_Wi.PackageMetaData'
+[2019.05.19-10.01.10:499][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_MyContent/UI/Widget_Win" FILE="../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Content/_MyContent/UI/Widget_Win.uasset" SILENT=true
+[2019.05.19-10.01.10:512][844]LogSavePackage: Moving '../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/Widget_Win5315ABD34E0BA96041DA43A8681901F4.tmp' to '../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Content/_MyContent/UI/Widget_Win.uasset'
+[2019.05.19-10.01.15:278][388]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_MyContent/Blueprints/BP_MyGameManager.BP_MyGameManager
+[2019.05.19-10.05.54:022][378]BlueprintLog: New page: Compile BP_MyGameManager
+[2019.05.19-10.05.54:749][432]LogSavePackage: Moving '../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Saved/BP_MyGameManager32BD4A8F4512B9A8676E3088D6CAB889.tmp' to '../../../../../../Users/Holton/Documents/GitHub/Maxs-platformer/PlatformerMax/Content/_MyContent/Blueprints/BP_MyGameManager.uasset'
